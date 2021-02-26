@@ -1,0 +1,4 @@
+Epoch: 0 train_loss: 0.034943 0.882618 valid_accu: 0.004436 0.919732
+Epoch: 1 train_loss: 0.004375 0.942062 valid_accu: 0.004388 0.943144
+Epoch: 2 train_loss: 0.003116 0.958992 valid_accu: 0.002873 0.933110
+Epoch: 3 train_loss: 0.002806 0.967645 valid_accu: 0.003308 0.933110

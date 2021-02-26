@@ -1,0 +1,3 @@
+python detector.py --phase predict <<!
+trained_models/detector_epoch_49.pt
+!
